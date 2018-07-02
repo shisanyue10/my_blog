@@ -1,0 +1,18 @@
+html, body {
+	background: -webkit-linear-gradient(#000000, #fff );
+	background:    -moz-linear-gradient(#ecf0f1, #fff );
+	background:     -ms-linear-gradient(#ecf0f1, #fff );
+	background:      -o-linear-gradient(#ecf0f1, #fff );
+	background:         linear-gradient(#ecf0f1, #fff ); }
+a, a:hover, a:focus { color: #0095ff; }
+.text-overflow { white-space: nowrap; text-overflow: ellipsis; overflow: hidden;}
+
+@media (min-width: 80px) {
+	.container { max-width: 200px !important; }
+}
+
+.examples { margin-top: 3px; }
+.examples .row { margin-bottom: 2px; }
+.examples .col-md-3 { text-align: center; margin-bottom: 2px; }
+.example img{width: 100%;}
+

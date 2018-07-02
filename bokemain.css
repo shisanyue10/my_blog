@@ -1,0 +1,65 @@
+.logotop{
+	width: 757px;
+	height: 240px;
+	margin: auto;
+	background-image: url(img/F_head.jpg);
+	background-repeat: repeat;
+}
+.menu{
+	width: 757px;
+	height: 40px;
+	font-size: 20px;
+	margin: auto;
+	background-image: url(img/menu.png);
+}
+.bottom{
+	width: 757px;
+	height: 74px;
+	background-image: url(img/footer.jpg);
+	margin: auto;
+}
+.bottom a{
+	text-align: center;
+	font-size: 30px;
+}
+.content{
+	width: 757px;
+	margin: auto;	background-image: url(img/abd.jpg);
+	background-repeat: repeat;
+}
+.menu table{
+	width: 700px;
+	margin: auto;
+}
+.menu table td{
+	height: 36px;
+	margin: auto;
+	text-align: center;
+}
+a:link,a:visited{
+	text-decoration: none;
+}
+.menu td:hover{
+	background-color: white;
+	color: green;
+}
+
+#buttonarea{
+	margin: auto;
+}
+#buttonarea input{
+	width:100px;
+	height: 40px;
+	font-size: 20px;
+	margin-right: 50px;
+}
+.caption{
+	font-size: 25px;
+}
+.tt{
+			font-size: 20px;
+			width: 757px;
+		}
+		.nei{
+			font-size: 25px;
+		}
